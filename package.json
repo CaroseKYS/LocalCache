@@ -1,0 +1,19 @@
+{
+  "name": "localcache",
+  "version": "1.0.0",
+  "description": "封装H5的localStorage和sessionStorage对象，并在IE6+浏览器中模拟这两个对象的功能。",
+  "main": "./src/localcache.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaroseKYS/LocalCache.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaroseKYS/LocalCache/issues"
+  },
+  "homepage": "https://github.com/CaroseKYS/LocalCache#readme"
+}
